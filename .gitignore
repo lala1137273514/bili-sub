@@ -1,0 +1,24 @@
+# 抓下来的内容不提交
+subs_out/
+subs/
+up_*/
+official.*
+subtitles_meta.json
+_manifest.json
+_合集_*.txt
+*.srt
+*.vtt
+*.ass
+*.lrc
+*.para.txt
+list.txt
+
+# 凭据
+cookie
+*.cookie
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
